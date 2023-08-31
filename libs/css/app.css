@@ -3633,8 +3633,8 @@ table ul {
 /* line 304, ../../sass/_export.scss */
 .biz-ex-logo-img {
   display: block;
-  width: auto;
-  height: auto;
+  width: 166px;
+  height: 55px;
   margin: 0 auto;
   background: url("../img/biz-ex-logo.png") no-repeat;
 }
